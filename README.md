@@ -2,6 +2,8 @@
 
 ---
 
+This repo contains the Supplement Material and full research code for "_Stable Stylistic Axes in Football: Interpretable Principal-Component Decomposition of Player Data from the Top-Five European Leagues_"
+
 ## Setup guide
 
 Follow these steps to set up your project with Python package manager - uv:

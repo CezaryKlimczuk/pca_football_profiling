@@ -1,0 +1,19 @@
+cff-version: 2.0.0
+message: "If you use this code, please cite:"
+title: "Stable Stylistic Axes in Football: Interpretable Principal-Component Decomposition of Player Data from the Top-Five European Leagues"
+version: "1.0.0"
+doi:
+date-released: 2025-07-20
+license: MIT
+authors:
+  - family-names: Klimczuk
+    given-names: Cezary
+    orcid: 0009-0004-1924-9700
+keywords:
+  - principal component analysis
+  - dimensionality reduction
+  - football profiling
+  - explainable latent components
+  - football analytics
+  - robustness
+repository-code: "https://github.com/CezaryKlimczuk/pca_football_profiling"
