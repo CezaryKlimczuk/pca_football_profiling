@@ -1,8 +1,9 @@
 # Online supplement to Explainable PCA Decomposition of Player Features for Football Profiling
 
 ---
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)
 
-This repo contains the Supplement Material and full research code for "_Stable Stylistic Axes in Football: Interpretable Principal-Component Decomposition of Player Data from the Top-Five European Leagues_"
+This repo contains the Supplement Material and full research code for "_Stable Stylistic Axes in Football: Interpretable Principal-Component Decomposition of Player Data from the Top-Five European Leagues_" 
 
 ## Setup guide
 
